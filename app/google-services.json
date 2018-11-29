@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "982754494872",
+    "firebase_url": "https://ecosistemas-55077.firebaseio.com",
+    "project_id": "ecosistemas-55077",
+    "storage_bucket": "ecosistemas-55077.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982754494872:android:a43edcfe1b625a9e",
+        "android_client_info": {
+          "package_name": "com.example.ecosistemas.loginfacebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982754494872-d8ao44vj6o7d9lnpmq2p8pnpam5tbvif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecosistemas.loginfacebook",
+            "certificate_hash": "796eb770b386bd8f113c5789f6d194b628916eaf"
+          }
+        },
+        {
+          "client_id": "982754494872-sdo3mh832ms5rqg40bkrcuvp42jsur76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt1wdsHXEuQeUX36Xbym1ZR7D6CPuu23U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982754494872-sdo3mh832ms5rqg40bkrcuvp42jsur76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982754494872:android:b4ef1d42a8da78f5",
+        "android_client_info": {
+          "package_name": "com.example.ecosistemas.practicafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982754494872-8p1i507vsfqnqndtvc7beefeu8cgtad9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecosistemas.practicafirebase",
+            "certificate_hash": "796eb770b386bd8f113c5789f6d194b628916eaf"
+          }
+        },
+        {
+          "client_id": "982754494872-sdo3mh832ms5rqg40bkrcuvp42jsur76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt1wdsHXEuQeUX36Xbym1ZR7D6CPuu23U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982754494872-sdo3mh832ms5rqg40bkrcuvp42jsur76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982754494872:android:06b77db35366884d",
+        "android_client_info": {
+          "package_name": "com.example.ecosistemas.registro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982754494872-vb1iif05pv065k69cmnkh6jmhvqe2cv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecosistemas.registro",
+            "certificate_hash": "796eb770b386bd8f113c5789f6d194b628916eaf"
+          }
+        },
+        {
+          "client_id": "982754494872-sdo3mh832ms5rqg40bkrcuvp42jsur76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt1wdsHXEuQeUX36Xbym1ZR7D6CPuu23U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982754494872-sdo3mh832ms5rqg40bkrcuvp42jsur76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
